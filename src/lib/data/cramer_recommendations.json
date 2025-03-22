@@ -1,0 +1,338 @@
+[
+  {
+    "ticker": "PLTR",
+    "company": "Palantir Technologies",
+    "date": "2020-11-15",
+    "recommendation": "buy",
+    "performance": {
+      "1d": 2.5,
+      "1w": 15.3,
+      "1m": 154.9,
+      "1y": 125.7
+    }
+  },
+  {
+    "ticker": "PLUG",
+    "company": "Plug Power",
+    "date": "2020-01-22",
+    "recommendation": "buy",
+    "performance": {
+      "1d": 1.8,
+      "1w": 12.4,
+      "1m": 112.6,
+      "1y": 95.3
+    }
+  },
+  {
+    "ticker": "MRNA",
+    "company": "Moderna",
+    "date": "2020-03-05",
+    "recommendation": "buy",
+    "performance": {
+      "1d": 3.2,
+      "1w": 18.7,
+      "1m": 105.8,
+      "1y": 434.2
+    }
+  },
+  {
+    "ticker": "EPR",
+    "company": "EPR Properties",
+    "date": "2020-02-18",
+    "recommendation": "buy",
+    "performance": {
+      "1d": -5.3,
+      "1w": -25.7,
+      "1m": -74.3,
+      "1y": -65.8
+    }
+  },
+  {
+    "ticker": "TOL",
+    "company": "Toll Brothers",
+    "date": "2020-03-10",
+    "recommendation": "buy",
+    "performance": {
+      "1d": -8.2,
+      "1w": -32.5,
+      "1m": -68.7,
+      "1y": -42.3
+    }
+  },
+  {
+    "ticker": "AMRN",
+    "company": "Amarin",
+    "date": "2020-03-31",
+    "recommendation": "buy",
+    "performance": {
+      "1d": -4.5,
+      "1w": -15.8,
+      "1m": -67.2,
+      "1y": -75.4
+    }
+  },
+  {
+    "ticker": "NVAX",
+    "company": "Novavax",
+    "date": "2019-12-05",
+    "recommendation": "buy",
+    "performance": {
+      "1d": -3.8,
+      "1w": -12.4,
+      "1m": -58.9,
+      "1y": 2456.7
+    }
+  },
+  {
+    "ticker": "VTR",
+    "company": "Ventas",
+    "date": "2020-02-25",
+    "recommendation": "buy",
+    "performance": {
+      "1d": -6.7,
+      "1w": -28.3,
+      "1m": -57.6,
+      "1y": -48.2
+    }
+  },
+  {
+    "ticker": "NCLH",
+    "company": "Norwegian Cruise Line",
+    "date": "2020-02-27",
+    "recommendation": "sell",
+    "performance": {
+      "1d": -15.3,
+      "1w": -45.7,
+      "1m": -79.4,
+      "1y": -82.6
+    }
+  },
+  {
+    "ticker": "NCLH",
+    "company": "Norwegian Cruise Line",
+    "date": "2020-03-12",
+    "recommendation": "sell",
+    "performance": {
+      "1d": -12.8,
+      "1w": -36.4,
+      "1m": -78.8,
+      "1y": -80.3
+    }
+  },
+  {
+    "ticker": "CPE",
+    "company": "Callon Petroleum",
+    "date": "2020-03-09",
+    "recommendation": "sell",
+    "performance": {
+      "1d": -18.5,
+      "1w": -52.3,
+      "1m": -80.8,
+      "1y": -92.7
+    }
+  },
+  {
+    "ticker": "RUN",
+    "company": "Sunrun",
+    "date": "2020-03-25",
+    "recommendation": "sell",
+    "performance": {
+      "1d": 8.7,
+      "1w": 35.4,
+      "1m": 115.1,
+      "1y": 562.8
+    }
+  },
+  {
+    "ticker": "UNFI",
+    "company": "United Natural Foods",
+    "date": "2020-03-18",
+    "recommendation": "sell",
+    "performance": {
+      "1d": 12.3,
+      "1w": 45.8,
+      "1m": 114.3,
+      "1y": 85.6
+    }
+  },
+  {
+    "ticker": "PCG",
+    "company": "PG&E",
+    "date": "2019-01-23",
+    "recommendation": "sell",
+    "performance": {
+      "1d": 76.6,
+      "1w": 42.3,
+      "1m": 25.7,
+      "1y": -52.8
+    }
+  },
+  {
+    "ticker": "AAPL",
+    "company": "Apple",
+    "date": "2022-09-15",
+    "recommendation": "buy",
+    "performance": {
+      "1d": 1.2,
+      "1w": 3.5,
+      "1m": 8.7,
+      "1y": 15.3
+    }
+  },
+  {
+    "ticker": "NVDA",
+    "company": "NVIDIA",
+    "date": "2022-08-10",
+    "recommendation": "buy",
+    "performance": {
+      "1d": 2.8,
+      "1w": 5.6,
+      "1m": 12.4,
+      "1y": 125.7
+    }
+  },
+  {
+    "ticker": "NFLX",
+    "company": "Netflix",
+    "date": "2022-07-20",
+    "recommendation": "buy",
+    "performance": {
+      "1d": 7.4,
+      "1w": 12.8,
+      "1m": 22.5,
+      "1y": 45.8
+    }
+  },
+  {
+    "ticker": "BA",
+    "company": "Boeing",
+    "date": "2022-06-15",
+    "recommendation": "buy",
+    "performance": {
+      "1d": -1.5,
+      "1w": -3.8,
+      "1m": -8.2,
+      "1y": -12.5
+    }
+  },
+  {
+    "ticker": "HD",
+    "company": "Home Depot",
+    "date": "2022-05-18",
+    "recommendation": "buy",
+    "performance": {
+      "1d": 0.8,
+      "1w": 2.3,
+      "1m": 5.7,
+      "1y": 8.4
+    }
+  },
+  {
+    "ticker": "LULU",
+    "company": "Lululemon Athletics",
+    "date": "2018-07-13",
+    "recommendation": "positive",
+    "performance": {
+      "1d": 2.0,
+      "1w": 2.7,
+      "1m": 15.4,
+      "1y": 96.0
+    }
+  },
+  {
+    "ticker": "PENN",
+    "company": "Penn National Gaming",
+    "date": "2020-04-17",
+    "recommendation": "buy",
+    "performance": {
+      "1d": 10.3,
+      "1w": 4.4,
+      "1m": 52.5,
+      "1y": 100.0
+    }
+  },
+  {
+    "ticker": "SPG",
+    "company": "Simon Property Group",
+    "date": "2020-11-13",
+    "recommendation": "buy",
+    "performance": {
+      "1d": -1.2,
+      "1w": 6.2,
+      "1m": 10.6,
+      "1y": 121.0
+    }
+  },
+  {
+    "ticker": "PVH",
+    "company": "PVH Corp",
+    "date": "2016-05-25",
+    "recommendation": "buy",
+    "performance": {
+      "1d": 2.5,
+      "1w": 3.8,
+      "1m": 9.4,
+      "1y": 12.0
+    }
+  },
+  {
+    "ticker": "AVGO",
+    "company": "Broadcom",
+    "date": "2016-02-06",
+    "recommendation": "positive",
+    "performance": {
+      "1d": -1.8,
+      "1w": -1.1,
+      "1m": 7.0,
+      "1y": 58.0
+    }
+  },
+  {
+    "ticker": "TSLA",
+    "company": "Tesla",
+    "date": "2021-10-25",
+    "recommendation": "buy",
+    "performance": {
+      "1d": 5.2,
+      "1w": 12.8,
+      "1m": 43.5,
+      "1y": 28.7
+    }
+  },
+  {
+    "ticker": "TSLA",
+    "company": "Tesla",
+    "date": "2022-12-15",
+    "recommendation": "sell",
+    "performance": {
+      "1d": -3.5,
+      "1w": -8.7,
+      "1m": -15.3,
+      "1y": -65.2
+    }
+  },
+  {
+    "ticker": "AMZN",
+    "company": "Amazon",
+    "date": "2022-02-10",
+    "recommendation": "buy",
+    "performance": {
+      "1d": 1.5,
+      "1w": 3.2,
+      "1m": -5.8,
+      "1y": -35.7
+    }
+  },
+  {
+    "ticker": "META",
+    "company": "Meta Platforms",
+    "date": "2022-02-03",
+    "recommendation": "buy",
+    "performance": {
+      "1d": -2.5,
+      "1w": -7.8,
+      "1m": -12.5,
+      "1y": -60.3
+    }
+  }
+]
